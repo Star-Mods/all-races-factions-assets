@@ -1,3 +1,2 @@
 ﻿DocInfo/DescLong=Assets mod for the Umojan Faction.
-DocInfo/DescShort=0
-DocInfo/Name=GATC's Umojan Assets
+DocInfo/Name=[AR2] Umojan Assets
