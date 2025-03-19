@@ -1,2 +1,2 @@
-﻿DocInfo/DescLong=Asset dependancy for melee UED faction<n/><n/>ALL RACES COOP Version
-DocInfo/Name=[ARX] UED Assets
+﻿DocInfo/DescLong=Asset dependancy for melee UED faction
+DocInfo/Name=[AR3] UED-Assets
